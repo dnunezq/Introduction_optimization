@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1  (Ejecute el notebook Homework1)
 
 1. Use a least squares for non-linear models adjust the bitcoin price and perform a prediction using the model to determine the future daily price a week ahead, compare with the actual values.
 
